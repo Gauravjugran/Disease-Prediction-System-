@@ -1,2 +1,2 @@
-# Disease-Prediction-System-
+# Disease-Prediction-System using Supervised Learning-
 Designed and implemented a robust disease prediction system, employing the Naive Bayes supervised learning algorithm. Successfully harnessed a symptoms dataset to make accurate predictions, demonstrating a strong command of machine learning techniques and data analysis. This project underscores my ability to develop practical solutions for healthcare applications through advanced predictive modeling.
